@@ -146,8 +146,8 @@ Ant Finance represents a significant advancement in personal financial technolog
 ### Contact Information
 
 For technical inquiries and partnership opportunities:
-- Technical Support: ant@antfinance.com
-- Business Development: ant@antfinance.com
-- Security Team: ant@antfinance.com
+- Technical Support: ant@antfinance.app
+- Business Development: ant@antfinance.app
+- Security Team: ant@antfinance.app
 
 *Note: This white paper represents the current state of Ant Finance as of December 2024 and is subject to updates and modifications as the platform evolves.*
